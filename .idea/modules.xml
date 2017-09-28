@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/liaoxb.iml" filepath="$PROJECT_DIR$/liaoxb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liaoxb-common/liaoxb-common.iml" filepath="$PROJECT_DIR$/liaoxb-common/liaoxb-common.iml" />
+    </modules>
+  </component>
+</project>
